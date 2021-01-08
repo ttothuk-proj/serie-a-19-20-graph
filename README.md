@@ -8,3 +8,6 @@ Market value was averaged from 3 numbers - start, middle and end fo season price
 
 ![](graph.png)
 ![](graph-with-line.png)
+
+### Market Value (Euro m) / Points earned
+![](pointprice.png)
